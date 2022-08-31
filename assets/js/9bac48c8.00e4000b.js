@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkulagellam_docusaurus=self.webpackChunkulagellam_docusaurus||[]).push([[8563],{3154:l=>{l.exports=JSON.parse('{"permalink":"/uw/blog/tags/mongodb","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
